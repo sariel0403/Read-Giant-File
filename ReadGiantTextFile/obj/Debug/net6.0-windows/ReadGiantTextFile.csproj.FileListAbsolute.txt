@@ -1,0 +1,17 @@
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\bin\Debug\net6.0-windows\ReadGiantTextFile.exe
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\bin\Debug\net6.0-windows\ReadGiantTextFile.deps.json
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\bin\Debug\net6.0-windows\ReadGiantTextFile.runtimeconfig.json
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\bin\Debug\net6.0-windows\ReadGiantTextFile.dll
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\bin\Debug\net6.0-windows\ReadGiantTextFile.pdb
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.csproj.AssemblyReference.cache
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.Form1.resources
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.csproj.GenerateResource.cache
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.AssemblyInfoInputs.cache
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.AssemblyInfo.cs
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.csproj.CoreCompileInputs.cache
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.dll
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\refint\ReadGiantTextFile.dll
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.pdb
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ReadGiantTextFile.genruntimeconfig.cache
+E:\Projects\ReadGiantTextFile\ReadGiantTextFile\obj\Debug\net6.0-windows\ref\ReadGiantTextFile.dll
